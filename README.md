@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A full-stack developer from this world</h3>
-
 <p align="left"><a href="https://twitter.com/robertchiribuc" target="blank"><img src="https://img.shields.io/twitter/follow/robertchiribuc?logo=twitter&style=for-the-badge" alt="robertchiribuc" /></a></p>
 
 - 🔭 I’m currently working on [Signal Genesys](https://signalgenesys.com/)
