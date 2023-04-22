@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **PHP, Laravel, Vue**
 
-- 📫 How to reach me **me@crobert.ro** or on Twitter at **[@chiribuc](https://twitter.com/robertchiribuc)**
+- 📫 How to reach me **me@crobert.ro** or on Twitter at **[@robertchiribuc](https://twitter.com/robertchiribuc)**
 
 <h5 align="left">Languages and Tools:</h3>
 
