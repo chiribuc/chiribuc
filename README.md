@@ -1,32 +1,28 @@
-<p align="left"><a href="https://twitter.com/robertchiribuc" target="blank"><img src="https://img.shields.io/twitter/follow/robertchiribuc?logo=twitter&style=for-the-badge" alt="robertchiribuc" /></a></p>
+# Web developer, father and, amateur bodybuilder.
 
-- 🔭 I’m currently working on [Signal Genesys](https://signalgenesys.com/)
+Hello, I'm Robert-Cristian Chiribuc, a senior web developer based in Bucharest, Romania, with extensive experience in building medium to large scale web applications.
 
-- 💬 Ask me about **PHP, Laravel, Vue**
+I specialize in PHP, Laravel, JavaScript, Vue.js, and React, and I'm passionate about creating high-quality, scalable, and maintainable code that meets the needs of clients and end-users alike.
 
-- 📫 How to reach me **me@crobert.ro** or on Twitter at **[@robertchiribuc](https://twitter.com/robertchiribuc)**
+When I'm not coding, you can find me at the gym, where I pursue my passion for bodybuilding, which helps me maintain a healthy work-life balance.
+I'm also a husband and father of two lovely kids.
 
-<h5 align="left">Languages and Tools:</h3>
+</br>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-</a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
-</a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
-</a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> 
-</a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> 
-</a> 
+> ### Currently, I work on these exciting projects
+
+[![1](https://github.com/chiribuc/chiribuc/assets/46414598/d5fdebf4-e579-4d50-933d-22080e04dc6f)](https://signalgenesys.com)
+[![2](https://github.com/chiribuc/chiribuc/assets/46414598/6975b180-a808-4190-a53f-228665597203)](https://codesm.com)
+[![3](https://github.com/chiribuc/chiribuc/assets/46414598/81add936-42dc-4bc9-bd47-54d3fcba5914)](https://meetcody.ai)
+----
+
+In my free time, I love contributing to the open-source community and supporting other developers by sharing my knowledge and expertise.
+
+If you're interested in working together or have an open-source project that you think I could contribute to, please don't hesitate to get in touch.
+  
+</br>
+
+> #### How to reach me?
+> By email: [me@crobert.dev](mailto:me@crobert.dev)   
+> X (Twitter): [@robertchiribuc](https://twitter.com/robertchiribuc)
 
