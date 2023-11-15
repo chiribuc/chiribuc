@@ -2,7 +2,7 @@
 
 Greetings, I'm Robert-Cristian Chiribuc, a seasoned web developer based in Bucharest, Romania. With a wealth of experience, I excel in crafting medium to large scale web applications.
 
-My expertise lies in PHP, Laravel, JavaScript, Vue.js, and React. I am deeply committed to producing top-notch, scalable, and maintainable code that caters to the diverse needs of clients and end-users.
+My expertise lies in PHP, Laravel, JavaScript, Vue.js, and sometimes React. I am deeply committed to producing top-notch, scalable, and maintainable code that caters to the diverse needs of clients and end-users.
 
 Beyond coding, you'll often find me at the gym, passionately pursuing bodybuilding to strike a harmonious balance between work and life. I also take pride in being a dedicated husband and father to two wonderful kids.
 
