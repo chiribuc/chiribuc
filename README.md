@@ -10,9 +10,10 @@ Beyond coding, you'll often find me at the gym, passionately pursuing bodybuildi
 
 > ### Currently, I work on these exciting projects
 
-[![1](https://github.com/chiribuc/chiribuc/assets/46414598/277e4ce0-0b0c-4062-beba-9c969b4f3b66)](https://signalgenesys.com)
-[![2](https://github.com/chiribuc/chiribuc/assets/46414598/ee95b1c2-1e05-4d06-8f6b-c9142bca331b)](https://codesm.com)
-[![3](https://github.com/chiribuc/chiribuc/assets/46414598/d11875b4-5a6c-4802-a735-2a0fb8382912)](https://meetcody.ai)
+<a href="https://signalgenesys.com" target="_blank"><img width="846" alt="1" src="https://github.com/chiribuc/chiribuc/assets/46414598/8c13ff65-db3c-49b8-8322-a42bf35df445"></a>
+<a href="https://codesmprojects.com" target="_blank"><img width="846" alt="1" src="https://github.com/chiribuc/chiribuc/assets/46414598/52c3d5ee-e269-46ac-a1d2-856bb9e67a67"></a>
+<a href="https://meetcody.ai" target="_blank"><img width="846" alt="1" src="https://github.com/chiribuc/chiribuc/assets/46414598/95845daa-3712-4128-a586-fad22c41fce0"></a>
+
 ----
 
 In my free time, I love contributing to the open-source community and supporting other developers by sharing my knowledge and expertise.
