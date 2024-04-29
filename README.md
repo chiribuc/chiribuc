@@ -1,6 +1,6 @@
 # Web developer, father and, amateur bodybuilder.
 
-Greetings, I'm Robert-Cristian Chiribuc, a seasoned web developer based in Bucharest, Romania. With a wealth of experience, I excel in crafting medium to large scale web applications.
+Greetings, I'm Robert-Cristian Chiribuc, a seasoned web developer based in Bucharest, Romania. With a wealth of experience, I excel in crafting medium to large-scale web applications.
 
 My expertise lies in PHP, Laravel, JavaScript, Vue.js, and sometimes React. I am deeply committed to producing top-notch, scalable, and maintainable code that caters to the diverse needs of clients and end-users.
 
@@ -18,7 +18,7 @@ Beyond coding, you'll often find me at the gym, passionately pursuing bodybuildi
 
 In my free time, I love contributing to the open-source community and supporting other developers by sharing my knowledge and expertise.
 
-If you're interested in working together or have an open-source project that you think I could contribute to, please don't hesitate to get in touch.
+If you're interested in working together or have an open-source project I could contribute to, please don't hesitate to contact me.
   
 </br>
 
